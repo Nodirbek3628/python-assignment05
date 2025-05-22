@@ -238,11 +238,11 @@ https://github.com/ismingiz/uygavazifa
 
 ---
 
-### 21. **Soat asosida ish haqi hisoblash (120000 so‘m/soat)**
+### 
+21. **Soat asosida ish haqi hisoblash (120000 so‘m/soat)**
 
 **Berilgan:** `soat = 8`
 **Natija:** `4800000.0`
-
 ---
 
 ### 22. **QQS bilan mahsulot narxini hisoblash (15%)**
@@ -259,11 +259,11 @@ https://github.com/ismingiz/uygavazifa
 
 ---
 
-### 24. **Chegirma bilan mahsulot narxi**
+### 24
+. **Chegirma bilan mahsulot narxi**
 
 **Berilgan:** `narx = 500000.0`, `chegirma = 10`
 **Natija:** `450000.0`
-
 ---
 
 ### 25. **Avtomobil uchun yoqilg‘i xarajati**
